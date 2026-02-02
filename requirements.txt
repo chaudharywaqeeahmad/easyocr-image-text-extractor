@@ -1,1 +1,7 @@
-Requirementseasyocrpillowipywidgetsnumpyseaborn
+## Requirements
+1. easyocr
+2. pillow
+3. ipywidgets
+4. numpy
+5. seaborn
+
